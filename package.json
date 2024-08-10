@@ -1,8 +1,8 @@
 {
-  "name": "exercise2_1",
+  "name": "exercise3",
   "version": "1.0.0",
   "description": "",
-  "main": "numOfVisits.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
